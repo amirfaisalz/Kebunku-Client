@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135597751719",
+    "firebase_url": "https://kebunku-f92b5.firebaseio.com",
+    "project_id": "kebunku-f92b5",
+    "storage_bucket": "kebunku-f92b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135597751719:android:f0a4a41214e486e6878a82",
+        "android_client_info": {
+          "package_name": "com.kebunku.kebunku_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135597751719-qsnvvb9bb0kf7ce4urti4j2e01adfqhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjJ_U807S6ZTZpLDdPvMwur5gZyvE6ckg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135597751719-qsnvvb9bb0kf7ce4urti4j2e01adfqhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
